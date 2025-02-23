@@ -1,0 +1,36 @@
+#main-lap-frame{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    color: rgb(0 0 0 / 1);
+    
+}
+
+#main-lap-frame > div {
+    padding: 1px;
+    margin: 1px;
+}
+
+#car-detail-frame{
+    background-color: rgb(130, 180, 145);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+#car-detail-frame p{
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#lap-input-frame{
+    align-items: center;
+    background-color: rgb(189, 171, 148);
+    margin: auto;
+    max-height: 10em;
+    min-height: 10em;
+    max-width: 15em;
+    min-width: 15em;
+}

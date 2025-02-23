@@ -1,0 +1,17 @@
+#app-frame {
+    color: rgb(0 0 0 / 1);
+    background-color: rgb(130, 180, 145);
+    overflow: hidden;
+    min-height: 100dvh;
+
+    align-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+
+#car-element {
+    padding: 3px;
+    margin: 3px;
+}

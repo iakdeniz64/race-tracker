@@ -1,0 +1,21 @@
+#navbar-frame {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#navbar-frame a {
+    color: black;
+    text-decoration: none;
+}
+
+#navbar-frame a:hover,
+#navbar-frame a:visited,
+#navbar-frame a:focus,
+#navbar-frame a:active {
+    color: black;
+    text-decoration: none;
+}

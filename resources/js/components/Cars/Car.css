@@ -1,0 +1,21 @@
+#car-frame {
+    background-color: rgb(209, 181, 121);
+    color: rgb(0 0 0 / 1);
+    inline-size: 70%;
+    padding: 30px 10px;
+    border-style: solid;
+    border-radius: 10px;
+    min-width: 22em;
+    max-width: 22em;
+    min-height: 20em;
+    max-height: 20em;
+}
+
+#car-frame > button{
+    padding: 1em;
+    margin: 1em;
+}
+
+#car-frame > button:hover{
+    cursor: pointer;
+}

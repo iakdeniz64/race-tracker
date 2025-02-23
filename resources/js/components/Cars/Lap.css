@@ -1,0 +1,13 @@
+#lap-frame {
+    background-color: rgb(209, 181, 121);
+    color: rgb(0 0 0 / 1);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    inline-size: 70%;
+    padding: 30px 10px;
+    border-style: solid;
+    border-radius: 10px;
+    min-width: 8em;
+    max-width: 8em;
+    min-height: 10em;
+    max-height: 10em;
+}
